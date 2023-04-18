@@ -4,7 +4,7 @@ import java.util.*;
 
 public class fibonacci {
     public static void main(String args[]) {
-        int n = 7;
+        int n = 8;
         int[] dp = new int[n + 1];
         Arrays.fill(dp, -1);
 
